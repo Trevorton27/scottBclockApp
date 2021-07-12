@@ -1,21 +1,22 @@
 body {
-    font-family: monospace;
-    background-color: #222;
-    color:limegreen;
-    font-size: 30px;
+  font-family: monospace;
+  background-color: #222;
+  color: limegreen;
+  font-size: 30px;
 }
 main,
 h1,
 h2 {
-    width: 90%;
-    text-align: center;
+  width: 90%;
+  text-align: center;
+  font-size: 65px;
 }
 
 main {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
-h1, 
+h1,
 h2 {
-    margin: 2em auto;
+  margin: 2em auto;
 }
